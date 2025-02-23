@@ -422,7 +422,7 @@ class _MathOperationsScreenState extends State<MathOperationsScreen> {
                 controller: num1Controller,
                 keyboardType: TextInputType.number,
                 decoration: InputDecoration(
-                  labelText: 'Angka 1',
+                  labelText: 'Angka 1', 
                   filled: true,
                   fillColor: Colors.white,
                   border: OutlineInputBorder(
